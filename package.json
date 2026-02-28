@@ -1,0 +1,19 @@
+{
+  "name": "pi-files",
+  "version": "1.0.0",
+  "keywords": [
+    "pi-package"
+  ],
+  "pi": {
+    "extensions": [
+      "./extensions"
+    ]
+  },
+  "scripts": {},
+  "devDependencies": {
+    "@mariozechner/pi-coding-agent": "latest"
+  },
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*"
+  }
+}
